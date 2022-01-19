@@ -1,1 +1,1 @@
-treamlit==1.4.0
+treamlit==0.68.0
